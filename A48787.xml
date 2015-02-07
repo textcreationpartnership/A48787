@@ -116,7 +116,10 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <figure/>
+            <p>
+               <pb facs="tcp:100061:1"/>
+               <figure/>
+            </p>
             <p>
                <pb facs="tcp:100061:1" rendition="simple:additions"/>
 CABALA:OR, THE MYSTERY OF Conventicles Unvaild:</p>
